@@ -9,7 +9,7 @@ void printSort(int A[], int n);
 
 int main() {
 	int A [] = { 16, 2, 77, 40, 12071 };
-	int n = 5;
+	int n = (sizeof(A)/sizeof(*A));
 	insertionSort(A, n);
 	printSort(A, n);
 	return 0;
