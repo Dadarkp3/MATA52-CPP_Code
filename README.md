@@ -2,3 +2,4 @@
 Diretório para salvar os projetos em C++ da matéria MATA52 da UFBA
 
 - Insertion Sort
+- Merge Sort
